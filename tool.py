@@ -6,8 +6,6 @@ dem=0
 class NguyenDucPhat_Activated_Page:
     # Tool Activated Page Die
     # Code By: Nguyễn Đức Phát
-    # Code Share Free. Nghiêm Cấm Bán
-    # Nhận Code Tool Theo Yêu Cầu (Trong Khả Năng)
     def banner(self):
         os.system("cls" if os.name == "nt" else "clear")
         banner = '''
